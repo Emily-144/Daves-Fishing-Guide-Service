@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Special Events</title>
+
+<style>
+
+body {
+	font: 20px Verdana, Helvetica, Arial, sans-serif;
+	background-color: #d9e6f1;
+}
+
+#menu {
+	background-color: #006128;
+	overflow: hidden;
+	width: 100%;
+}
+
+#menu ul {
+	list-style: none;
+	font: Verdana, Helvetica, Arial, sans-serif;
+	margin: 0 auto;
+	
+}
+
+#menu ul li {
+	display: inline-block;
+	float: none;
+	
+}
+
+#menu ul a{
+	color: #fff;
+}
+
+#menu ul li a{
+	display: block;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+#menu a:hover{
+	color: #bfd7c9;
+}
+
+#body {
+	background: url("images/logonotext.png") no-repeat scroll 50% 100%;
+	color: #013763;
+	text-align: left;
+	margin: 0 1em;
+}
+
+#body h5 {
+	margin: -1em 0 0 0;
+}
+
+#body img {
+	margin: 0 2em;
+	float: right;
+}
+
+</style>
+
+</head>
+
+<body>
+<center>
+
+<p><img src="images/logo.png" alt="logo" width="551" height="221"></p>
+
+<div id="menu">
+
+<ul>
+<li><a href="about.html">About/Contact</a></li>
+<li><a href="final.html">Home</a></li>
+</ul>
+
+</div>
+
+<div id="body">
+
+<br/> 
+
+<img src="images/example2.jpg" alt="fishing example 2" width="295" height="642">
+
+<h2>Special Events</h2>
+
+<h3>Salmon Fishing Trip</h3>
+<h5><em>July 8-10 - Lake Michigan</em></h5>
+<p>Join me for a fishing trip to catch lots of hard-fighting salmon on lake Michigan. 20lb+ salmon are possible, so be prepared to hold onto your rod! Boats depart at 5am, and we will fish for 5-6 hours on the lake depending on how the fish are biting.</p>
+
+<h3>Fish Fry</h3>
+<h5><em>Every other Saturday August-September - Lakes Vary</em></h5>
+<p>Every other Saturday, I'll be hosting a fishing cookout. We will be catching our own fish and cooking them for dinner. Everyone is welcome to attend. Bring a side dish to share with everyone. This event has been very popular in past years, so bring your appetite!</p>
+
+</div>
+
+</center>
+</body>
+</html>

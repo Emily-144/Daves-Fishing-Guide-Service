@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Dave's Fishing Guide Service</title>
+
+<style>
+
+body {
+	font: 20px Verdana, Helvetica, Arial, sans-serif;
+	background-color: #d9e6f1;
+}
+
+#menu {
+	background-color: #006128;
+	overflow: hidden;
+	width: 100%;
+}
+
+#menu ul {
+	list-style: none;
+	font: Verdana, Helvetica, Arial, sans-serif;
+	margin: 0 auto;
+	
+}
+
+#menu ul li {
+	display: inline-block;
+	float: none;
+	
+}
+
+#menu ul a{
+	color: #fff;
+}
+
+#menu ul li a{
+	display: block;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+#menu a:hover{
+	color: #bfd7c9;
+}
+
+#body {
+	background: url("images/logonotext.png") no-repeat scroll 50% 100%;
+	color: #013763;
+	margin: 1em 0;
+}
+
+#body h2 {
+	margin: -0.8em 0 0;
+}
+
+#appointmentdetails ul {
+	list-style-position: inside;
+	margin: 0 1em;
+	text-align: left;
+}
+
+#appointmentdetails img {
+	margin: 0 1em;
+	float: right;
+}
+
+</style>
+
+</head>
+
+<body>
+<center>
+
+<p><img src="images/logo.png" alt="logo" width="551" height="221"></p>
+
+<div id="menu">
+
+<ul>
+<li><a href="about.html">About/Contact</a></li>
+<li><a href="events.html">Special Events</a></li>
+</ul>
+
+</div>
+
+<div id="body">
+
+<h1><u>Dave's Fishing Guide Service</u></h1>
+
+<h2><em>Specializing in Pan Fish and Bass</em></h2>
+
+<h3>Appointment Info</h3>
+<p><b>$250 half day (4-5 hours) &nbsp&nbsp&nbsp&nbsp&nbsp $400 full day (8-9 hours)</b></p>
+
+<div id= "appointmentdetails">
+
+<p><img src="images/example1.jpg" alt="fishing example 1" width="315" height="682"></p>
+
+<ul>
+<li>All fishing equipment provided</li>
+<li>Guests should bring sunscreen, rain gear, snacks, and something to drink to keep hydrated</li>
+<li>I specialize in guiding on Southeastern Wisconsin lakes</li>
+<li>Maximum 3 people per boat</li>
+<li>My boat is a 20ft Ranger with a 250 horsepower motor and all updated modern electronics for a comfortable day of fishing</li>
+<li>Bring a camera to capture the memories!</li>
+</ul>
+
+</div>
+
+
+</div>
+
+</center>
+</body>
+</html>

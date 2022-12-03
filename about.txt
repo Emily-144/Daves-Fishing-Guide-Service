@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>About Me/Contact</title>
+
+<style>
+
+body {
+	font: 20px Verdana, Helvetica, Arial, sans-serif;
+	background-color: #d9e6f1;
+}
+
+#menu {
+	background-color: #006128;
+	overflow: hidden;
+	width: 100%;
+}
+
+#menu ul {
+	list-style: none;
+	font: Verdana, Helvetica, Arial, sans-serif;
+	margin: 0 auto;
+	
+}
+
+#menu ul li {
+	display: inline-block;
+	float: none;
+	
+}
+
+#menu ul a{
+	color: #fff;
+}
+
+#menu ul li a{
+	display: block;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+
+#menu a:hover{
+	color: #bfd7c9;
+}
+
+#body {
+	background: url("images/logonotext.png") no-repeat scroll 50% 100%;
+	color: #013763;
+	margin: 0 1em;
+	text-align: left;
+}
+
+#body p {
+	margin: -0.01em;
+}
+
+#body a{
+	color: #006128;
+}
+
+#body a:hover{
+	color: #bfd7c9;
+}
+
+#body img {
+	margin: 0 2em;
+	float: right;
+}
+
+</style>
+
+</head>
+
+<body>
+<center>
+
+<p><img src="images/logo.png" alt="logo" width="551" height="221"></p>
+
+<div id="menu">
+
+<ul>
+<li><a href="events.html">Special Events</a></li>
+<li><a href="final.html">Home</a></li>
+</ul>
+
+</div>
+
+<div id="body">
+
+<br/>
+
+<img src="images/dave.jpg" alt="Dave" width="393" height="700">
+
+<h2>About Me</h2>
+<p>Hi! I'm Dave and I've been fishing for over 35 years. I take pride in educating my clients on the art of fishing as well as the techniques of handling fish, whether you're catching and releasing or keeping fish. Rain or shine, I will always have fun catching fish with my clients.</p>
+
+<h2>Contact</h2>
+<p>Phone: 283-493-9283</p>
+<p>Email: <a href="mailto:fishyfish05@gmail.com">fishyfish05@gmail.com</p>
+
+<br/><br/><br/><br/>
+
+</div>
+
+</center>
+</body>
+</html>
