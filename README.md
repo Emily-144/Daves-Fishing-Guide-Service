@@ -4,4 +4,10 @@
 **Assignment:**  
 Create a website for a client  
 
-I built this website in 2020 for a client. The client asked for a basic fishing guide service website, and I worked with him to achieve the project's needs. *(Note that for the purposes of this assignment, the contact information is innacurate)*
+I built this website in 2020 for a client. The client asked for a basic fishing guide service website, and I worked with him to achieve the project's needs. *(Note that for the purposes of this assignment, the contact information is innacurate)*  
+
+**Languages/Resources Used:**  
+1. HTML
+2. CSS
+3. Notepad
+4. [Logo Maker](https://www.logomaker.com) for creating the logo
